@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
-Developed by:  Abdul Rehman SHeriff A
-Registeration Number : 212222220002
+Developed by:  Abdul Rehman Sheriff A
+Registeration No : 212222220002
 */
 ```
 
